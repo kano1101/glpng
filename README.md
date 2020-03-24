@@ -1,11 +1,12 @@
 # glpngアシスト
 
 ## 使用方法
+```
 $ cd ~/'作業用ディレクトリ'
 $ git clone git@github.com:kano1101/glpng.git
 $ cd glpng/src
 $ make
-
+```
 
 ## 参考URL
 
