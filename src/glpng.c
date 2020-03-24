@@ -25,8 +25,8 @@
 	#include <windows.h>
 #endif
 
-#include <GL/glpng.h>
-#include <GL/gl.h>
+#include <GLUT/glut.h>
+#include "GL/glpng.h"
 #include <stdlib.h>
 #include <math.h>
 #include "png/png.h"
