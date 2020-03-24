@@ -1,4 +1,6 @@
-# glpngアシスト
+# glpng導入アシスト
+
+glpngで調べてもmacに導入するための情報に困ったため、まとめさせていただきました。
 
 ## 使用方法
 ```
@@ -6,6 +8,8 @@ $ cd ~/'作業用ディレクトリ'
 $ git clone git@github.com:kano1101/glpng.git
 $ cd glpng/src
 $ make
+$ cd ../
+$ mv lib/libglpng.a # お好きな場所へどうぞ
 ```
 
 ## 参考URL
